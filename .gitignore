@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+.vercel
+*.local
+
+# public/에 복사본이 있으므로 루트 PDF는 제외
+/growvy_ppt_en.pdf
+/growvy_ppt_ko.pdf
